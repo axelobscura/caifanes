@@ -8,9 +8,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "hero-image": "url('/bkg1.jpg')",
-      },
       fontFamily: {
         Rajdhani: ['Rajdhani', 'sans-serif'],
       },
